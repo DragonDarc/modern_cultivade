@@ -12,7 +12,7 @@ class Home extends StatelessWidget {
           padding: const EdgeInsets.only(left: 16.0),
         ),
         title: Text(
-          'Modern Cultivade',
+          'Modern ',
           style: TextStyle(
             color: Colors.black12,
             fontWeight: FontWeight.bold,
